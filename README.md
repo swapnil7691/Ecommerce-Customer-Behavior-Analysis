@@ -48,12 +48,12 @@ Swapnil Patil
 ## 📷 Dashboard Preview
 
 ### Image 1
-![Dashboard 1](image1.jpg)
+!(image1.jpg)
 
 ### Image 2
-![Dashboard 2](image2.jpg)
+!(image2.jpg)
 
 ### Image 3
-![Dashboard 3](image3.jpg)
+!(image3.jpg)
 
 
