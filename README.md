@@ -45,6 +45,15 @@ This project analyzes customer purchasing patterns, sales performance, payment m
 Swapnil Patil
 
 ---
-##Dashoard Preview
+## 📷 Dashboard Preview
+
+### Image 1
+![Dashboard 1](image1.jpg)
+
+### Image 2
+![Dashboard 2](image2.jpg)
+
+### Image 3
+![Dashboard 3](image3.jpg)
 
 
