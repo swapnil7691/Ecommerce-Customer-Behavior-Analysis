@@ -44,3 +44,7 @@ This project analyzes customer purchasing patterns, sales performance, payment m
 ## 👨‍💻 Author
 Swapnil Patil
 
+---
+##Dashoard Preview
+
+
