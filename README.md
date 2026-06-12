@@ -49,7 +49,7 @@ Swapnil Patil
 ## 📷 Dashboard Preview
 
 ### Image 1
-![Dashboard 1](lmage1.png)
+![Dashboard 1](image1.png)
 
 ### Image 2
 ![Dashboard 2](image2.png)
